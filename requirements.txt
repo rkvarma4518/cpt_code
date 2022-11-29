@@ -1,0 +1,8 @@
+flask
+pysqlite3
+flask_restful
+fuzzywuzzy
+pandas
+numpy
+uwsgi
+PyJWT==1.4.2
