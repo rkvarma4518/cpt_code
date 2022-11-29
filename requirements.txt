@@ -6,3 +6,4 @@ pandas
 numpy
 uwsgi
 PyJWT==1.4.2
+gunicorn
