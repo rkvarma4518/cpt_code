@@ -81,4 +81,4 @@ class Code(Resource):
 api.add_resource(Code, '/code/<string:des>') 
 
 if __name__=='__main__':
-    app.run()
+    app.run(debug=False, host='0.0.0.0')
